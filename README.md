@@ -3,9 +3,6 @@
 ## Overview:
 This project is a Movie Recommender System built using Streamlit that allows users to select a movie and receive recommendations for similar films. It leverages precomputed similarity scores stored in a pickle file to find and recommend the top five movies based on their similarity to the selected title. The system fetches movie posters using the TMDB API and displays them alongside the movie titles. The movie data and similarity matrix are loaded from serialized files, and the entire recommendation process is user-driven through an interactive web interface.
 
-## Application link:
-[Movie_Recommendation_Project]()
-
 ## Project Details:
 - **Framework:**
  Built using Streamlit for creating an interactive web application.
