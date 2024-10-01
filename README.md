@@ -7,9 +7,6 @@ This project is a Movie Recommender System built using Streamlit that allows use
 - **Framework:**
  Built using Streamlit for creating an interactive web application.
 
-- **Deployment:** 
-The application is deployed using Render for public accessibility.
-
 - **User Interaction:**
 Users can select a movie from a dropdown list to receive recommendations.
 A Streamlit selectbox is used to enable this selection process.
